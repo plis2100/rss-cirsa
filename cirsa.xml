@@ -5,8 +5,17 @@
     <link>https://www.cirsa.com/prensa/</link>
     <description>Últimas noticias y comunicaciones corporativas de CIRSA</description>
     <language>es</language>
-    <lastBuildDate>Wed, 04 Nov 2026 13:12:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 13:26:17 +0000</lastBuildDate>
     <ns0:link href="https://www.cirsa.com/prensa/" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CIRSA obtiene 195 millones de euros de beneficio operativo en el tercer trimestre de 2026</title>
+      <link>https://www.cirsa.com/cirsa-obtiene-195-millones-de-euros-de-beneficio-operativo-en-el-tercer-trimestre-de-2026/</link>
+      <description>CIRSA obtiene 195 millones de euros de beneficio operativo en el tercer trimestre de 2026</description>
+      <category>Notas de prensa</category>
+      <guid isPermaLink="true">https://www.cirsa.com/cirsa-obtiene-195-millones-de-euros-de-beneficio-operativo-en-el-tercer-trimestre-de-2026/</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <ns1:content url="https://www.cirsa.com/wp-content/uploads/2025/12/fachada-22.jpg" medium="image" />
+    </item>
     <item>
       <title>CIRSA obtiene 202 millones de euros de beneficio operativo en el segundo trimestre de 2026</title>
       <link>https://www.cirsa.com/cirsa-obtiene-202-millones-de-euros-de-beneficio-operativo-en-el-segundo-trimestre-de-2026/</link>
@@ -51,15 +60,6 @@
       <guid isPermaLink="true">https://www.cirsa.com/cirsa-obtiene-194-millones-de-euros-de-beneficio-operativo-en-el-primer-trimestre-de-2026/</guid>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
       <ns1:content url="https://www.cirsa.com/wp-content/uploads/2025/06/Casino_Valencia_CIRSA_Fachada.jpg" medium="image" />
-    </item>
-    <item>
-      <title>CIRSA celebra su primera Junta General de Accionistas como compañía cotizada y aprueba el reparto de un dividendo total de 75 millones de euros</title>
-      <link>https://www.cirsa.com/cirsa-celebra-su-primera-junta-general-de-accionistas-como-compania-cotizada-y-aprueba-el-reparto-de-un-dividendo-total-de-75-millones-de-euros/</link>
-      <description>CIRSA celebra su primera Junta General de Accionistas como compañía cotizada y aprueba el reparto de un dividendo total de 75 millones de euros</description>
-      <category>Notas de prensa</category>
-      <guid isPermaLink="true">https://www.cirsa.com/cirsa-celebra-su-primera-junta-general-de-accionistas-como-compania-cotizada-y-aprueba-el-reparto-de-un-dividendo-total-de-75-millones-de-euros/</guid>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-      <ns1:content url="https://www.cirsa.com/wp-content/uploads/2026/04/CIRSA-Junta-General-Accionistas-2026.jpg" medium="image" />
     </item>
   </channel>
 </rss>
